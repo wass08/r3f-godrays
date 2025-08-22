@@ -1,12 +1,5 @@
-# React Three Fiber - WebGPU Starter
+# React Three Fiber - Godrays tutorial
 
-Build WebGPU Apps with Three.js & React Three Fiber
+![thumbnail-godrays](https://github.com/user-attachments/assets/fb475519-437c-4d13-9b37-b9944c4ccb6b)
 
-```
-yarn
-yarn dev
-```
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
-
-> Learn more about WebGPU and how to use it with Three.js and React Three Fiber with [React Three Fiber: The Ultimate Guide to 3D Web Development](https://wawasensei.dev/courses/react-three-fiber)
+[Video tutorial](https://youtu.be/qCqt0E-NXqU) - [Demo](https://godrays.wawasensei.dev)
